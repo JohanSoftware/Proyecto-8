@@ -4,10 +4,12 @@
 
 ## 🎓 Descripción del Proyecto
 
-Este proyecto corresponde al **Módulo 8** y consiste en el desarrollo del **frontend** para un Sistema de Gestión de Campus Universitario.  
-Es una evolución del trabajo realizado en el **Módulo 7** (*university-courses-frontend*), donde se partía de una aplicación de listado de cursos, ampliándola ahora hacia una plataforma integral para la gestión académica en un entorno universitario.
+En este proyecto desarrollé el **frontend** de un Sistema de Gestión de Campus Universitario como parte del **Módulo 8** de mi formación.  
+Este trabajo es una evolución del proyecto realizado en el **Módulo 7** (*university-courses-frontend*), donde inicialmente creé una aplicación para el listado de cursos. En esta versión, lo transformé en una plataforma integral para gestionar cursos y recursos dentro de un entorno universitario.
 
-El objetivo es construir una interfaz de usuario **intuitiva, moderna y robusta** utilizando las últimas características de **Angular v20**, incluyendo:
+Mi objetivo fue construir una interfaz de usuario **intuitiva, moderna y robusta**, utilizando las últimas características de **Angular v20**, como:
+
+- **Componentes Standalone**
 
 - **Componentes Standalone**
 - **Signals**
