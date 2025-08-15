@@ -29,9 +29,9 @@ Este proyecto cuenta con la siguiente estructura de carpetas y su propósito:
 - 📁 `app/` → Contiene la lógica central y módulos de la app.
 - 📁 `features/` → Módulos organizados por funcionalidad.
 - 📁 `courses/` → Módulo de gestión de cursos.
-- 📁 `components` → Componentes visuales y reutilizables del módulo.
-- 📁 `models` → Definición de interfaces y tipos de datos.
-- 📁 `services` → Servicios para lógica de negocio y acceso a datos.
+- 📁 `components/` → Componentes visuales y reutilizables del módulo.
+- 📁 `models/` → Definición de interfaces y tipos de datos.
+- 📁 `services/` → Servicios para lógica de negocio y acceso a datos.
 - 📄 `courses.routes.ts` → Configuración de rutas específicas para cursos.
 
 
