@@ -23,11 +23,16 @@ El objetivo es construir una interfaz de usuario **intuitiva, moderna y robusta*
 
 ## 📂 Estructura del Proyecto
 
-Este proyecto utiliza una estructura simple sin dependencias de herramientas como Angular CLI Workspace o Nx monorepo.
+Este proyecto cuenta con la siguiente estructura de carpetas y su propósito:
 
-- `src/` : Contiene el código fuente de la aplicación Angular.  
-- `assets/` : Almacena recursos estáticos (imágenes, íconos, etc.).  
-- `environments/` : Archivos de configuración de entornos.  
+📁 src/ → Código fuente principal de la aplicación.
+📁 app/ → Contiene la lógica central y módulos de la app.
+📁 features/ → Módulos organizados por funcionalidad.
+📁 courses/ → Módulo de gestión de cursos.
+📁 components/ → Componentes visuales y reutilizables del módulo.
+📁 models/ → Definición de interfaces y tipos de datos.
+📁 services/ → Servicios para lógica de negocio y acceso a datos.
+📄 courses.routes.ts → Configuración de rutas específicas para cursos.
 
 ---
 
@@ -43,4 +48,5 @@ Este proyecto utiliza una estructura simple sin dependencias de herramientas com
 
 ## 👤 Autor del Proyecto
 - Johan David Tovar Acevedo
+
 
