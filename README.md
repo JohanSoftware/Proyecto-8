@@ -16,10 +16,6 @@ Mi objetivo fue construir una interfaz de usuario **intuitiva, moderna y robusta
 
 ---
 
-## 📹 Video de Presentación  
-- [🎥 Ver en Youtube](https://youtu.be/ML8rf3DVxks) 
-
----
 
 ## 📂 Estructura del Proyecto
 
