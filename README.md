@@ -5,11 +5,9 @@
 ## 🎓 Descripción del Proyecto
 
 En este proyecto desarrollé el **frontend** de un Sistema de Gestión de Campus Universitario como parte del **Módulo 8** de mi formación.  
-Este trabajo es una evolución del proyecto realizado en el **Módulo 7** (*university-courses-frontend*), donde inicialmente creé una aplicación para el listado de cursos. En esta versión, lo transformé en una plataforma integral para gestionar cursos y recursos dentro de un entorno universitario.
+Donde inicialmente creé una aplicación para el listado de cursos. En esta versión, lo transformé en una plataforma integral para gestionar cursos y recursos dentro de un entorno universitario.
 
 Mi objetivo fue construir una interfaz de usuario **intuitiva, moderna y robusta**, utilizando las últimas características de **Angular v20**, como:
-
-- **Componentes Standalone**
 
 - **Componentes Standalone**
 - **Signals**
@@ -19,7 +17,7 @@ Mi objetivo fue construir una interfaz de usuario **intuitiva, moderna y robusta
 ---
 
 ## 📹 Video de Presentación  
-- [🎥 Ver en Youtube](#) *(enlace pendiente)*
+- [🎥 Ver en Youtube](https://youtu.be/ML8rf3DVxks) 
 
 ---
 
@@ -27,14 +25,15 @@ Mi objetivo fue construir una interfaz de usuario **intuitiva, moderna y robusta
 
 Este proyecto cuenta con la siguiente estructura de carpetas y su propósito:
 
-📁 src/ → Código fuente principal de la aplicación.
-📁 app/ → Contiene la lógica central y módulos de la app.
-📁 features/ → Módulos organizados por funcionalidad.
-📁 courses/ → Módulo de gestión de cursos.
-📁 components/ → Componentes visuales y reutilizables del módulo.
-📁 models/ → Definición de interfaces y tipos de datos.
-📁 services/ → Servicios para lógica de negocio y acceso a datos.
-📄 courses.routes.ts → Configuración de rutas específicas para cursos.
+📁 `src/` → Código fuente principal de la aplicación.
+📁 `app/` → Contiene la lógica central y módulos de la app.
+📁 `features/` → Módulos organizados por funcionalidad.
+📁 `courses/` → Módulo de gestión de cursos.
+📁 `components` → Componentes visuales y reutilizables del módulo.
+📁 `models` → Definición de interfaces y tipos de datos.
+📁 `services` → Servicios para lógica de negocio y acceso a datos.
+📄 `courses.routes.ts` → Configuración de rutas específicas para cursos.
+
 
 ---
 
