@@ -42,9 +42,9 @@ Este proyecto cuenta con la siguiente estructura de carpetas y su propósito:
 
 - **Angular v20**
 - **TypeScript**
-- **HTML5 / CSS3**
-- **Tailwind CSS** (opcional, según diseño)
-- **localStorage API**
+- **HTML5**
+- **Tailwind CSS** 
+- **localStorage**
 
 ---
 
