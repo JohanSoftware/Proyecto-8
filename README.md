@@ -1,4 +1,4 @@
-<h1 align="center">Proyecto Módulo 8️⃣ <a href="#" target="blank">Sistema de Gestión de Campus Universitario (Frontend)</a></h1>
+<h1 align="center">Proyecto Módulo 8️⃣ Sistema de Gestión de Campus Universitario (Frontend)</h1>
 
 ---
 
